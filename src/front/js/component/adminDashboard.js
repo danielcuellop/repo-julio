@@ -33,7 +33,7 @@ export const AdminDashboard = ({ user }) => {
 	return (
 
 
-		<div className="" style={{ backgroundImage: "url('https://res.cloudinary.com/dz6bglmyq/image/upload/v1688068965/banner3_xq4wvf.png')", backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}>
+		<div className="" style={{ backgroundImage: "url('https://res.cloudinary.com/dz6bglmyq/image/upload/v1688081143/banner4_crx1pg.png')", backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}>
 			<div>
 				<p>hola, {user.name}</p>
 			</div>
